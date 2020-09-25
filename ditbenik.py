@@ -4,22 +4,46 @@ naam = input("wie ben jij? \n")
 print("hello " + naam)
 
 print("Ik ben een nieuwkomer op het Mediacollege Amsterdam")
-print("Door een aantal vragen over mij te beantwoorden leer je mij beter kennen")
+print("Door een aantal vragen over mij te beantwoorden leer je mij beter kennen \n")
 
-print("voor dat ik op het Mediacollege Amsterdam kwam zat ik op:")
+print("voor dat ik op het Mediacollege Amsterdam kwam zat ik op: \n")
 
 print("A. Bonhoeffer college in castricum")
 print("B. Jac p thijse in castricum")
-print("C. clusiuscollege in castricum")
+print("C. clusiuscollege in castricum \n")
 
 antwoord = input("Kies A, B of C >>>>> ")
 
 if(antwoord == "A"):
-        print("dat is goed ik heb daar mavo gedaan voor 4 jaar")
+        print("zou ik dan: ")
+        print("A. Mavo")
+        print("B. Havo")
+        print("c. Vwo")
+        aw = input("hebben gedaan: ")
+        if (aw == "A"):
+                print("dat is correct en de heb ook inderdaad op het bonhoeffer college gezeten")
+        else:
+                print("das fout")
 elif(antwoord == "B"):
-        print("nee is fout ik had mijn school had wel een soort rivalry met die school")
+        print("zou ik dan: ")
+        print("A. Mavo")
+        print("B. Havo")
+        print("c. Vwo")
+        aw = input("hebben gedaan: ")
+        if (aw == "A"):
+                print("dat is goed behalve dat ik dan toch geen Jac p thijse heb gedaan")
+        else:
+                print("das fout")
 elif(antwoord == "C"):
-        print("nee dat is fout wel wat vrienden van mij zaten op die school")
+        print("zou ik dan: ")
+        print("A. Mavo")
+        print("B. Havo")
+        print("c. Vwo")
+        aw = input("hebben gedaan: ")
+        if (aw == "A"):
+                print("dat is goed behalve dat ik dan toch clusiuscollege heb gedaan")
+        else:
+                print("das fout")
 
 print("hoe oud ben ik:")
 
@@ -41,7 +65,7 @@ print("welke kant ga ik op in de opleiding")
 print("A. Gamedeveloper")
 print("B. softwaredeveloper")
 
-antwoord = input("kies A, B of C >>>>> ")
+antwoord = input("kies A of B >>>>> ")
 
 if(antwoord == "A"):
         print("dat is goed ik ga de Gamedeveloper kant op")
