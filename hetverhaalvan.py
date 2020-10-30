@@ -13,7 +13,7 @@ print("na een paar jaar bleek George gelijk te krijgen de dictator begon met het
 print("ondertussen had George al een vrouw en een kind van 2 hij zag dit al aankomen en had al wat plannen voorbereid hier op")
 print("het vol was het niet eens met deze veranderingen maar de dictator zetten de politie en het leger in en verbood het geloof volledig")
 print("redelijk snel begonnen de rellen en dook er een rebellen leger op")
-print("George was ook christelijk en ging dus het rebellen leger maar hij wist niet hoe maar gelukkig weet een vriend het wel en wijst hem naar het leger")#dit iets langer maken
+print("George was ook christelijk en ging dus het rebellen leger maar hij wist niet hoe maar gelukkig weet een vriend het wel en wijst hem naar het leger")
 print("")
 print("dus via een vriend is hij de rebellen gejoined")
 print("hij werd meteen overgeplaatst naar de rebellen stad van Exeter")
@@ -21,7 +21,7 @@ print("hij moest in veel gebouwen wonen die al in puin lagen veilig was het niet
 print("op het front moest hij ook een masker dragen om zijn identiteit te verbergen")
 print("want anders zouden ze misschien zijn vrouw en kind iets aandoen die nog in London woonde om dat  het in exeter niet veilig was")
 print("tijdens een gevecht was zijn masker afgevlogen en werd zijn gezicht gespot door een camera")
-print("hij stuurde meteen zijn vrouw een bericht om te gaan onderduiken")#dit ook iets langer + iets over kind soldaten
+print("hij stuurde meteen zijn vrouw een bericht om te gaan onderduiken")
 print("en George zelf moest vluchten maar hoe wist hij niet")
 print("")
 print("A. hij koos het vliegtuig om te vluchten naar Nederland")
