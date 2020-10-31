@@ -269,3 +269,5 @@ elif (aw == "B"):
                 print("hij had besloten om bij een bouwmarkt te werken dit hielp om zijn gedachtes van zijn familie af te houden\npaar dagen later kreeg hij te horen dat de smokkelaar op gepakt waren\n na een maand werken kreeg hij te horen dat hij mocht blijven\n hij zorgde er zo snel mogelijk voor dat hij zijn gezin over mocht vliegen")
                 print("het moment dat hij zijn vrouw en kind weer zag was het mooiste moment van zijn leven\nhij ging meteen een betere baan zoeken\n met de loon van die baan ging hij een huurhuis huren\nnu woont hij nog gelukkig met zijn vrouw en kind in zijn huurhuis")
                 print("-----------------------einde verhaal-----------------------")
+else:
+    print("geen geldig antwoord")
